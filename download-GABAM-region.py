@@ -1,5 +1,4 @@
-##finds ftp files of a certain region and downloads them, e.g. 
-#ftp://124.16.184.141/GABAM/burned%20area/2009/N10W080.TIF
+##finds ftp files of a certain region and downloads them, e.g. ftp://124.16.184.141/GABAM/burned%20area/2009/N10W070.TIF
 import ftplib
 import numpy as np
 import urllib.request
